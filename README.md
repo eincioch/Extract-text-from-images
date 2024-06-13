@@ -1,0 +1,1 @@
+# ConsoleAppExtract-text-from-images
